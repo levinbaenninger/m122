@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi" name="Modul 122"
+                 start-page="Bash.md">
+
+    <toc-element topic="Bash.md">
+        <toc-element topic="Grundlegende-Befehle.md">
+            <toc-element topic="Hilfe.md"/>
+            <toc-element toc-title="Verzeichnisse">
+                <toc-element topic="Aktuelles-Verzeichnis.md"/>
+                <toc-element topic="Verzeichnisinhalt-anzeigen.md"/>
+                <toc-element topic="Verzeichnis-wechseln.md"/>
+                <toc-element topic="Verzeichnis-erstellen.md"/>
+                <toc-element topic="Verzeichnis-löschen.md"/>
+            </toc-element>
+            <toc-element toc-title="Dateien">
+                <toc-element topic="Ausführen.md"/>
+                <toc-element topic="Kopieren.md"/>
+                <toc-element topic="Verschieben.md"/>
+                <toc-element topic="Dateien-löschen.md"/>
+                <toc-element topic="Erstellen.md"/>
+                <toc-element topic="Finden.md"/>
+                <toc-element toc-title="Inhalt von Dateien">
+                    <toc-element topic="Inhalt-ausgeben.md"/>
+                    <toc-element topic="Inhalt-editieren.md"/>
+                    <toc-element topic="Inhalt-zählen.md"/>
+                    <toc-element topic="Inhalt-durchsuchen.md"/>
+                    <toc-element topic="Inhalt-sortieren.md"/>
+                    <toc-element topic="Inhalt-ausschneiden.md"/>
+                    <toc-element topic="Inhalt-umwandeln.md"/>
+                </toc-element>
+            </toc-element>
+            <toc-element topic="Diverses.md"/>
+        </toc-element>
+        <toc-element topic="Berechtigungen.md">
+            <toc-element topic="Berechtigungen-ändern.md"/>
+        </toc-element>
+    </toc-element>
+    <toc-element topic="PowerShell.md"/>
+    <toc-element topic="Systemintegration.md"/>
+</instance-profile>
