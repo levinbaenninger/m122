@@ -4,6 +4,10 @@
 
     <variables>
         <primary-color>deep-ocean</primary-color>
+        <algolia-id>S6AW5LGVRW</algolia-id>
+        <algolia-index>prod_M122</algolia-index>
+        <algolia-api-key>e54b1a0c70eabbcf0b868d4aebb5ab19</algolia-api-key>
+        <web-root>https://levinbaenninger.github.io/m122/</web-root>
     </variables>
     <build-profile instance="hi">
         <variables>
