@@ -37,6 +37,11 @@
         <toc-element topic="Berechtigungen.md">
             <toc-element topic="Berechtigungen-ändern.md"/>
         </toc-element>
+        <toc-element topic="Umleiten-und-Pipes.md">
+            <toc-element topic="Ausgabeumleitung.md"/>
+            <toc-element topic="Eingabeumleitung.md"/>
+            <toc-element topic="Pipe.md"/>
+        </toc-element>
     </toc-element>
     <toc-element topic="PowerShell.md"/>
     <toc-element topic="Systemintegration.md"/>
